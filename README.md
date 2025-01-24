@@ -11,5 +11,6 @@ This project features a Power BI dashboard designed to visualize and analyze fin
 
 ## Screenshots
 
-![Dashboard](C:\Users\SANU\OneDrive\Pictures\Screenshots)
 
+
+![DashBoard](https://github.com/user-attachments/assets/d75adeba-1349-42a6-bd05-fc0cad0d00e9)
